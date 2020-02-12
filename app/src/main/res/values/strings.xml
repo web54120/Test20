@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ธนากร หงษ์สินสี 020</string>
+    <string name="tv_name">ชื่อ-นามสกุล :</string>
+    <string name="tv_age">อายุ :</string>
+    <string name="tv_phone">เบอร์โทร :</string>
+    <string name="tv_email">อีเมล</string>
+    <string name="tv_pm">แผนก</string>
+    <string name="tv_nickname">ชื่อเล่น</string>
+    <string name="btn_sender">ส่งข้อมูล</string>
+    <string name="btn_close">ปิด แอพพลิเคชั่น</string>
+    <string name="btn_back">กลับ</string>
+</resources>
